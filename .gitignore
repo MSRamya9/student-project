@@ -1,0 +1,13 @@
+# Virtual environment
+.env/
+.venv/
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# Local database
+student_info.db
+
+# Secret environment variables
+.env
